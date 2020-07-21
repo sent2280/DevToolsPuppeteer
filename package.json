@@ -1,0 +1,25 @@
+{
+  "name": "devtoolspuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ConsoleLogReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sent2280/DevToolsPuppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sent2280/DevToolsPuppeteer/issues"
+  },
+  "homepage": "https://github.com/sent2280/DevToolsPuppeteer#readme",
+  "devDependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "puppeteer": "^5.0.0",
+    "puppeteer-core": "^5.0.0"
+  }
+}

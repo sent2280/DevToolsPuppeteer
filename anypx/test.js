@@ -1,0 +1,2 @@
+let rBody = '[{"timestamp":"07/09/20 09:33 AM EDT","passed":0,"failed":13,"skipped":0,"environment":"md2","total":13,"type":null,"testSuiteName":null,"appName":"MMCS","appOwnerName":"Andrea Wuelfing","displayName":"MMCS UI_Sniff","qaOwner":"Smruti Mishra","reportLoc":"\\\\Frkshare01\\data01$\\ISD01\\Investements Shared\\SAPIENT\\Test_Reports\\MMCS\\ThuJul092020_8_33_10","comments":null,"lastModifiedBy":null}]';
+console.log("rBody = " + rBody);
